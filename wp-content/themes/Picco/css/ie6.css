@@ -1,0 +1,89 @@
+			#nav li a {
+				padding:18px 14px 22px 23px;
+ 			}
+			
+				#nav li .desc{
+					margin-top:-28px;
+ 				}
+				
+		#feature-contents #feature-contents-header {
+			margin-top:25px;
+		}
+		
+			#feature-contents-header #fcontent{
+				margin-top:10px;
+			}
+			
+		#feature-contents #slide{
+			padding-top:20px;
+		}	
+		
+				#feature-contents #slide-description p{
+					margin:7px 10px 0 10px;
+				}
+				
+  			#slideh{
+  				left:-490px;
+ 			}
+			
+			#slide .sliderh1{
+				left:276px;
+			}
+			
+			#slide .sliderh5, #slide .sliderh2{
+				left:60px;
+			}
+			
+ 			#slide #slideh .sliderh2{
+				left:718px;
+			}
+			
+			#content .page hr{
+  				margin-bottom:10px;
+  			}
+			
+				.page .page_column {
+					margin-left:5px;
+ 				}
+ 			
+				.page .portofolio_column {
+					margin-right:10px;
+				}
+			
+				.page .portofolio_column .ribbon-plus{ 
+					right:3px;
+				} 	
+				
+				.nav .on {
+					padding: 0px 6px;
+ 				}
+			
+		#content .col-right #links{
+			padding-top:10px;
+		}
+		
+		#content .col-right #our_people, #blog{
+			padding-top:10px;
+		}
+		
+			#our_people .people li{
+				padding-top:10px;
+			}
+		
+				#our_people .people li .person_data{
+					margin-top:-8px;
+				}
+				
+				#blog .blog_title {
+					width:200px;
+ 				}
+				
+		#content .col-right #contact-data, #content .col-right #text, #content .col-right #services {
+			padding-top:10px;
+		}
+			
+		#content .col-right #feeds{
+			padding-top:10px;
+		}
+			
+		

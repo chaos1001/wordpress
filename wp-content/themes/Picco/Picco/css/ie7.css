@@ -1,0 +1,104 @@
+/* IE 7 */	
+	
+	
+			#nav li a {
+				padding:18px 14px 22px 23px;
+ 			}
+			
+				#nav li .desc{
+					margin-top:-28px;
+ 				}
+				
+		#feature-contents #feature-contents-header {
+			margin-top:25px;
+		}
+		
+			#feature-contents-header #fcontent{
+				margin-top:10px;
+			}
+			
+		#feature-contents #slide{
+			padding-top:20px;
+		}	
+		
+				#feature-contents #slide-description p{
+					margin:7px 10px 0 10px;
+				}
+				
+  			#slideh{
+  				left:0px;
+ 			}
+			
+			#slide .sliderh1{
+				left:270px;
+			}
+			
+			#slide .sliderh5, #slide .sliderh2{
+				left:54x;
+			}
+			
+ 			#slide #slideh .sliderh2{
+				left:716px;
+			}
+			
+			#content .page hr{
+  				margin-bottom:10px;
+  			}
+			
+				.page .page_column {
+					margin-left:5px;
+ 				}
+ 			
+				.page .portofolio_column {
+					margin-right:10px;
+				}
+			
+				.page .portofolio_column .ribbon-plus{ 
+					right:0px;
+				} 	
+				
+				.nav .on {
+					padding: 2px 8px 2px 2px;
+ 				}
+			
+		#content .col-right #links{
+			padding-top:10px;
+		}
+		
+		#content .col-right #our_people, #blog{
+			padding-top:10px;
+		}
+		
+			#our_people .people li{
+				padding-top:20px;
+			}
+		
+				#our_people .people li .person_data{
+					margin-top:5px;
+				}
+				
+				#blog .blog_title {
+					width:200px;
+ 				}
+				
+		#content .col-right #contact-data, #content .col-right #text, #content .col-right #services {
+			padding-top:10px;
+		}
+			
+		#content .col-right #feeds{
+			padding-top:10px;
+		}
+			
+		
+ 
+
+
+ 	
+
+
+
+ 	
+	#our_people .people li .person_data{
+		margin-top:5px;
+	}
+
